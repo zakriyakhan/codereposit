@@ -1,0 +1,21 @@
+X=MsgBox("message",0+00,"title")
+
+Button insert: 0
+0 = OK Button, 
+1 = OK / Cancel Button, 
+2 = Abort / Retry / Ignore Button, 
+3 = Yes / No / Cancel Button, 
+4 = Yes / No Button, 
+5 = Retry / Cancel Button
+
+2. You can write 32 or 48 or 64 instead of 16.
+Below is the meaning of each number:
+Icon insert: 00
+16 = Critical Icon
+32 = Help Icon 
+48 = Warning Icon
+64 = Information Icon
+
+Save as VBScript file. Example: vbs.vbs. Use .vbs at the end.
+use notepad.exe, opens with a microsoft program named microsoft windows vbscript (unknown application file name)
+MAKE MORE LINES IF YOU LIKE TO
