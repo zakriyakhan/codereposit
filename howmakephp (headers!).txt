@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Title</h1>
+
+<?php
+echo "Message";
+?>
+
+</body>
+</html>
+
+this is like html
+get the use things in the non header one

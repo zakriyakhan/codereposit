@@ -1,0 +1,14 @@
+@echo off
+
+start browser "website.com"
+
+NOTE: Multiple website links can be made, just copy the "start browser" thing and use quotation marks at the beginning and end of the website link like this "website.com"
+
+OTHER STUFF:
+Internet Explorer "start browser" Name: iexplorer
+Google Chrome "start browser" Name: chrome
+Firefox (should work) "start browser" Name: firefox
+Website example: www.google.com
+Default browser thing: "" (Use to open default browser with tabs, add to "start browser", replace your browser name with "".) (To edit your default go to Settings > System > Default apps > Scroll down > Web browser)
+use notepad.exe, file opens in cmd.exe, requested websites opens in your requested browser
+ADD MORE WEBSITES TO OPEN THEM IF THEY ARE YOUR FAVORITE

@@ -1,0 +1,5 @@
+javascript:alert('messageinsert');
+
+NOTE: This may not work with other browsers, such as IE, Edge, Firefox & others. Chrome only works maybe.
+use chrome.exe's url box, opens in dialog box
+BONUS: wanna prank your friends with this saying they have a virus? (fake and harmless)

@@ -1,0 +1,5 @@
+mkdir name
+
+dir (you can find your directory with that command)
+
+use cmd.exe

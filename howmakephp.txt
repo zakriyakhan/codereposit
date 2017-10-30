@@ -1,0 +1,7 @@
+<?php
+echo "Your line";
+
+
+?>
+
+create with notepad, save in C:\xampp\A folder you just made\, create a folder in C:\xampp and save it there, open browser, enter "localhost/Folder/Name.php"

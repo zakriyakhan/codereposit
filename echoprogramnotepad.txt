@@ -1,0 +1,9 @@
+@echo off
+title Name
+pause
+echo Something
+
+Save as batch file. Example: echo.bat. use .bat at the end. 
+Open from where you saved it.
+use notepad.exe, opens with cmd.exe
+ADD MORE LINES IF YOU LIKE TO 
